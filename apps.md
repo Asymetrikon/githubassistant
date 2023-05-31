@@ -1,7 +1,7 @@
 GitHubAssistant:
 Description: A prompt that uses the prompts in this repo as instruction for the conversation.
 Made by: Asymetrikon
-Link: https://github.com/Asymetrikon/myaistuff/blob/main/apps/GitHubAssistant.txt
+Link: https://github.com/Asymetrikon/githubassistant/blob/main/apps/GitHubAssistant.txt
 
 Master Chef:
 Description: Prompt that helps you with everything related to cooking.
@@ -11,7 +11,7 @@ LinK: https://discord.com/channels/974519864045756446/1094903897493094420
 MindMap:
 Description: Creates a MindMap on a Topic.
 Made by: Asymetrikon
-Link: https://github.com/Asymetrikon/myaistuff/blob/main/apps/MindMap.txt
+Link: https://github.com/Asymetrikon/githubassistant/blob/main/apps/MindMap.txt
 
 RoleGPT:
 Description: Quickly choose a Role for q&a,discussion,help. With difficulty setting, randomizer and persona creator.
@@ -36,14 +36,14 @@ Link: https://discord.com/channels/974519864045756446/1111582853881417778
 MediaGuesser:
 Description: Helps you find Movies,Games and Books you dont know the Title of.
 Made by: Asymetrikon
-Link: https://github.com/Asymetrikon/myaistuff/blob/main/apps/MediaGuesser.txt
+Link: https://github.com/Asymetrikon/githubassistant/blob/main/apps/MediaGuesser.txt
 
 CheatEngine:
 Description: Find Tipps and Tricks, Cheats for Video Games.
 Made by:Asymetrikon
-Link: https://github.com/Asymetrikon/myaistuff/blob/main/apps/CheatEngine.txt
+Link: https://github.com/Asymetrikon/githubassistant/blob/main/apps/CheatEngine.txt
 
 LegoAssistant:
 Description: A little Assistant helping you with ideas for building stuff and searching for Lego Sets.
 Made by: Asymetrikon
-Link: https://github.com/Asymetrikon/myaistuff/blob/main/apps/LegoAssistant.txt
+Link: https://github.com/Asymetrikon/githubassistant/blob/main/apps/LegoAssistant.txt
