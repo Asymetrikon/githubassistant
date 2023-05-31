@@ -13,21 +13,6 @@ Description: A God Simulator Game.
 Made by: komt
 Link: https://discord.com/channels/974519864045756446/1082764107138211970
 
-MasterMind:
-Description: The classic board game.
-Made by: voyager
-Link: https://discord.com/channels/974519864045756446/1107695668753072238
-
-RolePlayDD:
-Description: Roleplay Game with D&D 5th Edition Rules
-Made by: biozork
-Link: https://discord.com/channels/974519864045756446/1109844321718521936
-
-Ruleordie:
-Description: Reigns like Game for GPT.
-Made by: paradroid
-Link: https://discord.com/channels/974519864045756446/1107021679328247950
-
 SlotMachine:
 Description: Play a round on a classic Slot Machine.
 Made by: Asymetrikon
@@ -47,11 +32,6 @@ WhatIf:
 Description: Ask a WhatIf Quesion and get a realistic andd a funny answer.
 Made by:Asymetrikon
 Link: https://discord.com/channels/974519864045756446/1108763822396821626
-
-ZeldaBuilder:
-Description: Make Build Templates for Zelda: Tears of the Kingdom.
-Made by: jinofcoolnes
-Link: https://discord.com/channels/974519864045756446/1108560630065143838
 
 NameGuesser:
 Description: Think of a Name for a Person,Object,Concept and GPT has to guess it through yes/no questions.
