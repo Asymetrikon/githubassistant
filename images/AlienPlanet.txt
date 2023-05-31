@@ -2,10 +2,4 @@ Link: https://cdn.discordapp.com/attachments/1091246884523347978/110952505620955
 
 Description:
 
-1. an animation of an alien landscape with a river and planets, in the style of christophe vacher, multicolored landscapes, richly detailed backgrounds, phil koch, national geographic photo, robert s. duncanson, birds-eye-view --ar 91:51
-
-2. a picture of space with satellites and a river in the space, in the style of vibrant fantasy landscapes, alien worlds --ar 91:51
-
-3. a beautiful image of a space planet with planets, in the style of romantic riverscapes, dino valls, phil koch, realistic, detailed rendering, spatiality, futuristic sleekness, arcadian landscapes --ar 91:51
-
-4. a beautiful space scene with planets of earth and moon, in the style of romantic riverscapes, science-fiction dystopias, precisionist lines, expansive landscapes, hyper-detailed, mirrored realms, firecore --ar 91:51
+A celestial terraforming event captured in progress, morphing the barren planetary surface into a verdant oasis with a river, all under the watchful eyes of satellite overseers
