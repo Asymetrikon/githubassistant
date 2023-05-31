@@ -9,7 +9,7 @@ Made by:  Asymetrikon
 Link: https://discord.com/channels/974519864045756446/1110299320307159040
 
 GodGPT:
-Description: A God Simulator Game.
+Description: A God Simulator Game. Heavily edited Version. Original Version by komt.
 Made by: komt
 Link: https://discord.com/channels/974519864045756446/1082764107138211970
 
