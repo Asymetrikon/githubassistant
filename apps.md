@@ -47,3 +47,8 @@ LegoAssistant:
 Description: A little Assistant helping you with ideas for building stuff and searching for Lego Sets.
 Made by: Asymetrikon
 Link: https://github.com/Asymetrikon/githubassistant/blob/main/apps/LegoAssistant.txt
+
+NewsPaper:
+Description: GPT generates a Newspaper from the News Plugin.
+Made by: Asymetrikon
+Link: https://github.com/Asymetrikon/myaistuff/blob/main/apps/NewsPaper.txt
